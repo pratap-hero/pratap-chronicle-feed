@@ -1,3 +1,23 @@
 {
-  "activities": []
+  "activities": [
+    {
+      "id": "60743258-d1dc-4f79-94ec-ab47c478650e",
+      "className": "BV",
+      "title": "A Visit to the Gurudwara – Celebrating Gurupurab",
+      "date": "Mon Nov 23 2026 00:00:00 GMT+0530 (India Standard Time)",
+      "description": "To mark the auspicious occasion of Gurupurab, the students of Balvatika 1 and Balvatika 2 visited a Gurudwara. The visit provided children with an opportunity to learn about the teachings of Guru Nanak Dev Ji, understand the importance of prayer, kindness, equality and sharing, and experience the peaceful atmosphere of the Gurudwara. It was a meaningful learning experience that helped instil values of respect, love and compassion in our young learners.",
+      "images": [
+        "https://drive.google.com/thumbnail?id=11g1uZRLeHuqYcy_MgnYYrqadvlKC-TsP&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1gq1lqQJdfGsgbkrafYQ8IE8t9HmpX-dm&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1P4gJRyKRJL5qXGN2Axan9ITxxWCrSvn4&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1zwxFeHPo9q2StqqcOz6MwxnL40nzi4c1&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1RTXjCpGyoza5J3G1c_KVfrzBIBfSiQjz&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1GYMI6dh_mwo9tXHwAKrFxTulvT7rrAtS&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1hL9dgs9mkr-UzcwRUANXs1tyWkAh7SgQ&sz=w1600",
+        "https://drive.google.com/thumbnail?id=18ScN27X23aVlEca9Kz7G-olSSqtdTPvI&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1dgnusvHyFaSqxwH8ink7PEvu6IVvg8Rq&sz=w1600",
+        "https://drive.google.com/thumbnail?id=1uDj7gYgb82NMp3aGpdaJQ4dKHYOKFzhm&sz=w1600"
+      ]
+    }
+  ]
 }
